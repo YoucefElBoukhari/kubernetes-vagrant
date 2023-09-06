@@ -1,0 +1,1 @@
+kubeadm join 10.0.0.254:6443 --token x66xfg.irk2egxckejzrrc6 --discovery-token-ca-cert-hash sha256:589fc3df207b1ae5b3a72200f7e07455df22141c70833b990c3910838aee1732 
